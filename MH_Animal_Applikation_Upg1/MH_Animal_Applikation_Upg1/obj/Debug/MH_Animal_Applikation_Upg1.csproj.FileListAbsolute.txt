@@ -1,0 +1,11 @@
+c:\users\psylon\documents\visual studio 2013\Projects\MH_Animal_Applikation_Upg1\MH_Animal_Applikation_Upg1\bin\Debug\MH_Animal_Applikation_Upg1.exe.config
+C:\Users\Psylon\Documents\Visual Studio 2013\Projects\MH_Animal_Applikation_Upg1\MH_Animal_Applikation_Upg1\obj\Debug\MH_Animal_Applikation_Upg1.Form1.resources
+C:\Users\Psylon\Documents\Visual Studio 2013\Projects\MH_Animal_Applikation_Upg1\MH_Animal_Applikation_Upg1\obj\Debug\MH_Animal_Applikation_Upg1.Properties.Resources.resources
+C:\Users\Psylon\Documents\Visual Studio 2013\Projects\MH_Animal_Applikation_Upg1\MH_Animal_Applikation_Upg1\obj\Debug\MH_Animal_Applikation_Upg1.csproj.GenerateResource.Cache
+C:\Users\Psylon\Documents\Visual Studio 2013\Projects\MH_Animal_Applikation_Upg1\MH_Animal_Applikation_Upg1\obj\Debug\MH_Animal_Applikation_Upg1.exe
+C:\Users\Psylon\Documents\Visual Studio 2013\Projects\MH_Animal_Applikation_Upg1\MH_Animal_Applikation_Upg1\obj\Debug\MH_Animal_Applikation_Upg1.pdb
+C:\Users\Psylon\Documents\Visual Studio 2013\Projects\MH_Animal_Applikation_Upg1\MH_Animal_Applikation_Upg1\obj\Debug\MH_Animal_Applikation_Upg1.csprojResolveAssemblyReference.cache
+C:\Users\Psylon\Documents\Visual Studio 2013\Projects\MH_Animal_Applikation_Upg1\MH_Animal_Applikation_Upg1\bin\Debug\MH_Animal_Applikation_Upg1.exe
+C:\Users\Psylon\Documents\Visual Studio 2013\Projects\MH_Animal_Applikation_Upg1\MH_Animal_Applikation_Upg1\bin\Debug\MH_Animal_Applikation_Upg1.pdb
+C:\Users\Psylon\Documents\Visual Studio 2013\Projects\MH_Animal_Applikation_Upg1\MH_Animal_Applikation_Upg1\obj\Debug\MH_Animal_Applikation_Upg1.FormAddStaff.resources
+C:\Users\Psylon\Documents\Visual Studio 2013\Projects\MH_Animal_Applikation_Upg1\MH_Animal_Applikation_Upg1\obj\Debug\MH_Animal_Applikation_Upg1.RecipeForm.resources

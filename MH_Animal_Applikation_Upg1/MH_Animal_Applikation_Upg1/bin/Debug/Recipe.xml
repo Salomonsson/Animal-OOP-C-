@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<ArrayOfRecipe xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Recipe>
+    <Name>Pankaka</Name>
+    <Ingredients>
+      <string>2 Ägg</string>
+      <string>2 DL Mjölk</string>
+      <string>1 tsk Salt</string>
+    </Ingredients>
+  </Recipe>
+  <Recipe>
+    <Name>Meatballs</Name>
+    <Ingredients>
+      <string>1 Ägg</string>
+      <string>150 g köttfärs</string>
+      <string>2 tsk Salt</string>
+    </Ingredients>
+  </Recipe>
+</ArrayOfRecipe>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<ArrayOfStaff xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Staff>
+    <Name>APU</Name>
+    <Skills>
+      <string>Chief</string>
+      <string>Manager</string>
+    </Skills>
+  </Staff>
+  <Staff>
+    <Name>Peter S</Name>
+    <Skills>
+      <string>Developer</string>
+      <string>C#</string>
+    </Skills>
+  </Staff>
+</ArrayOfStaff>
